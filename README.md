@@ -56,4 +56,4 @@ Recommended early technical priorities:
 
 ## Current Status
 
-This repository package is based on the DailyHub research paper and is ready to upload into a GitHub repository. No application code has been added yet.
+This repository is based on the DailyHub research paper and currently contains planning documentation only. No application code has been added yet.
