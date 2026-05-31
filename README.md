@@ -38,6 +38,7 @@ MVP scope:
 
 ## Documentation
 
+- [MVP prototype](index.html)
 - [Full research paper](docs/research-paper.md)
 - [Phased roadmap](docs/roadmap.md)
 - [GitHub upload notes](GITHUB_UPLOAD_NOTES.md)
@@ -56,4 +57,4 @@ Recommended early technical priorities:
 
 ## Current Status
 
-This repository is based on the DailyHub research paper and currently contains planning documentation only. No application code has been added yet.
+This repository is based on the DailyHub research paper and now includes the first browser-based MVP prototype for the foundation and service marketplace workflow.
